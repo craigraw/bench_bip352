@@ -1,0 +1,6 @@
+[submodule "UltrafastSecp256k1"]
+	path = UltrafastSecp256k1
+	url = https://github.com/shrec/UltrafastSecp256k1.git
+[submodule "secp256k1"]
+	path = secp256k1
+	url = https://github.com/bitcoin-core/secp256k1.git
