@@ -89,4 +89,4 @@ All benchmarks use the same constants from `common.h`:
 ## Submodules
 
 - `secp256k1/` — [bitcoin-core/secp256k1](https://github.com/bitcoin-core/secp256k1)
-- `UltrafastSecp256k1/` — [UltrafastSecp256k1](https://github.com/nickmitchko/UltrafastSecp256k1)
+- `UltrafastSecp256k1/` — [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1)
